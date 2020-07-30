@@ -10,7 +10,7 @@ The bikes are available for use 24 hours/day, 7 days/week, 365 days/year and rid
 
 I have special interest in start and end of rides. Users characteristics between Customer and Subscriber, day of weeks with high usage. The main goal is to identify the customer comsumption patterns of bike riding.
 
-![Baywheels Bikes Picture](/baywheels.png)
+![Baywheels Bikes Picture](baywheels.png)
 
 ## Project Details
 
