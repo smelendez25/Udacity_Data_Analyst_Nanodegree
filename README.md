@@ -12,6 +12,10 @@ Advance your programming skills and refine your ability to work with messy, comp
 - [Capstone project: Baywheels](./Project_05)
 
 This is the project work created during the  **Udacity Data Analyst Nanodegree** between May 2020 - Sep 2020.
+
+### Certificate
+
+- [View](https://confirm.udacity.com/CRHFDRZD)
  
 ## Project 1 - Global Weather Trends 
 In this project, I have analysed local and global temperature data and compared the temperature trends with where I live to overall global   temperatures
