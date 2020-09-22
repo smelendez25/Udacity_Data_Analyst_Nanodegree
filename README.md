@@ -9,7 +9,7 @@ Advance your programming skills and refine your ability to work with messy, comp
 - [Project 2 - No Show Appointments](./highly-available-website)
 - [Project 3 - Analyze_A_B Test Analysis](./jenkins-pipeline-aws)
 - [Project 4 - Data Wrangling](./microservices)
-- [Capstone project: Bayside](./capstone)
+- [Capstone project: Baywheels](./Project_5)
 
 
 # Udacity_DataAnalyst
@@ -35,7 +35,7 @@ For this project, I have worked to understand the results of an A/B test run by 
 
 The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
-## Project 5 - Data Visualization
+## Project 5 - Baywheels
 
 In Progress
 
