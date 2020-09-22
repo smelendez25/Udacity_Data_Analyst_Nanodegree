@@ -1,3 +1,17 @@
+# Udacity Data Analyst
+## [Cloud DevOps Engineer Nanodegree program](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+Advance your programming skills and refine your ability to work with messy, complex datasets. You’ll learn to manipulate and prepare data for analysis, and create visualizations for data exploration. Finally, you’ll learn to use your data skills to tell a story with data.
+
+### Projects:
+
+- [Project 1 - Global Weather Trends](./static-website)
+- [Project 2 - No Show Appointments](./highly-available-website)
+- [Project 3 - Analyze_A_B Test Analysis](./jenkins-pipeline-aws)
+- [Project 4 - Data Wrangling](./microservices)
+- [Capstone project: Bayside](./capstone)
+
+
 # Udacity_DataAnalyst
  This is the project work created during the  **Udacity Data Analyst Nanodegree** between May 2020 - Sep 2020.
  
