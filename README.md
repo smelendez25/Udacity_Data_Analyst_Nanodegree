@@ -9,7 +9,7 @@ Advance your programming skills and refine your ability to work with messy, comp
 - [Project 2 - No Show Appointments](./Project_02)
 - [Project 3 - Analyze_A_B Test Analysis](./Project_03)
 - [Project 4 - Data Wrangling](./Project_04)
-- [Capstone project: Baywheels](./Project_05)
+- [Project 5: Capstone - Baywheels](./Project_05)
 
 This is the project work created during the  **Udacity Data Analyst Nanodegree** between May 2020 - Sep 2020.
 
