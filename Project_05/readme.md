@@ -1,6 +1,8 @@
 # Communicate-Data-Findings for the dataset Baywheels former Ford GoBike
 Udacity's Data Analyst Nanodegree - Project 5
 
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
+
 ## Introduction
 Ford GoBike is the Bay Area's bike share system. Bay Area Bike Share was introduced in 2013 as a pilot program for the region, with 700 bikes and 70 stations across San Francisco and San Jose. Once expansion is complete, Ford GoBike will grow to 7,000 bikes across San Francisco, the East Bay and San Jose.
 
